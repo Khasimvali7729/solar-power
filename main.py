@@ -23,7 +23,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Corrected file path for Windows
-file_path = r"C:\\Users\\shaik\\solar-power\\khasim\\Cleaned_File.csv"
+file_path = r"https://github.com/Khasimvali7729/solar-power/blob/main/Cleaned_File.csv"
 
 try:
     # Read the dataset
