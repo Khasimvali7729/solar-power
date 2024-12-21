@@ -1,4 +1,4 @@
-# Solar Power Plant Performance Dashboard  
+# Solar Power Plant Performance Dashboard ☀️  
 
 ## Introduction  
 The **Solar Power Plant Performance Dashboard** is an interactive web application designed to monitor and visualize the performance of solar power plants. It helps track key metrics such as power generation (DC and AC), temperature (ambient and module), solar irradiation, and energy yield. This dashboard is a comprehensive tool for plant operators and energy analysts to analyze the efficiency and performance of solar power plants over selected time ranges.  
